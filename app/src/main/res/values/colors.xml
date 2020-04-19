@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#030303</color>
+    <color name="colorPrimaryDark">#CAF6F0</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="green">#DFD54B</color>
+    <color name="red">#D81B60</color>
+    <color name="blue">#D81B60</color>
+    <color name="zise">#C618F1</color>
+    <color name="jianhao">#8B79F0</color>
+    <color name="bg">#030303</color>
+
+
+</resources>
